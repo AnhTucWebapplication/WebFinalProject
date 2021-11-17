@@ -1,6 +1,7 @@
 {
   "name": "foodshop",
   "version": "0.0.0",
+  "homepage": "https://github.com/AnhTucWebapplication/WebFinalProject.git",
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www"
